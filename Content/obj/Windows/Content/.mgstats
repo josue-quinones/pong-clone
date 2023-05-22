@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Josue/source/repos/Pong/Content/Fonts/font.spritefont","C:/Users/Josue/source/repos/Pong/Content/bin/Windows/Content/Fonts/font.xnb","FontDescriptionProcessor","SpriteFontContent",2005,70690,0.2977857
+"C:/Users/Josue/source/repos/Pong/Content/Sprites/background.png","C:/Users/Josue/source/repos/Pong/Content/bin/Windows/Content/Sprites/background.xnb","TextureProcessor","Texture2DContent",4405,2822485,0.3296771
+"C:/Users/Josue/source/repos/Pong/Content/Sprites/ball.png","C:/Users/Josue/source/repos/Pong/Content/bin/Windows/Content/Sprites/ball.xnb","TextureProcessor","Texture2DContent",372,8733,0.226712
